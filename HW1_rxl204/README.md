@@ -7,7 +7,7 @@ Creating an environmental variable and creating alias using command export
 Adds $PUI2017 as alias command to enter directory named PUI2017_rxl204 by
 typing pui2017
 
-![Steps](https://github.com/rxl204/PUI2017_rxl204/HW1_rxl204/Screenshots/HW1_environmental%20variable.JPG)
+![Alt text](https://github.com/rxl204/PUI2017_rxl204/HW1_rxl204/Screenshots/HW1_environmental%20variable.JPG)
 
 Once created, return to home and type pwd to check the directory
 Type in the alias and the working directory should change to PUI2017
