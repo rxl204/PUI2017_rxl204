@@ -11,7 +11,7 @@
 5. Type in the alias and the working directory should change to PUI2017
 
 ###Assignment 3
-Completed parts 1 individually
-Received help from Unisse in completing part 2 - adding a multiplier to randomise output
-Worked collaboratively with Unisse to complete part 3
-Received help from Unisse in completing last challenge - resetting means
+*Completed parts 1 individually
+*Received help from Unisse in completing part 2 - adding a multiplier to randomise output
+*Worked collaboratively with Unisse,Julian and Juan to complete part 3
+*Received help from Unisse in completing last challenge - resetting means
