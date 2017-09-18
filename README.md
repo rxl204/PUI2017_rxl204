@@ -6,7 +6,7 @@ Add an environmental variable using the following syntax
 
 edit with export command and directory 
 
-![Alt text](HW1_environmental variable.jpg)
+
 
 Create an alias pui2017 as seen above
 
