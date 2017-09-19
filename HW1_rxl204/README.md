@@ -1,5 +1,12 @@
 
 # PUI2017_rxl204
+### Assignment 1
+1. Creating gittestrxl and myfirstfile.txt
+        * use mkdir to create folder
+        * create repo on Github and git remote add push
+2. Solving merge conflicts with help from Gaurav
+3. Fork and pull request with Anupama (messed with her repo as11566)
+
 ### Assignment 2 
 1. Creating a directory on my local environment called PUI2017
 2. Creating an environmental variable PUI2017 using command export 
