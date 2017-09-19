@@ -1,6 +1,6 @@
 
 # PUI2017_rxl204
-###Assignment 2 
+### Assignment 2 
 1. Creating a directory on my local environment called PUI2017
 2. Creating an environmental variable PUI2017 using command export 
 3. Adding $PUI2017 as alias command to enter directory PUI2017 by typing pui2017
@@ -10,7 +10,7 @@
 4. Once created, return to home and type pwd to check the directory
 5. Type in the alias and the working directory should change to PUI2017
 
-###Assignment 3
+### Assignment 3
 * Completed parts 1 individually
 * Received help from Unisse in completing part 2 - adding a multiplier to randomise output
 * Worked collaboratively with Unisse,Julian and Juan to complete part 3
