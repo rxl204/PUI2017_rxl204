@@ -13,7 +13,6 @@ except ImportError:
 if not len(sys.argv) == 3:
 	print ("Invalid number of arguments. Run as: python show_bus_locations_rxl204.py <MTA_KEY> <BUS_LINE>")
 	sys.exit()
-#url = http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=25197ab7-fe61-4853-855e-f68a32e1e13b&VehicleMonitoringDetailLevel=calls&LineRef=B52
 
 url = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=" + sys.argv[1] + "&VehicleMonitoringDetailLevel=calls&LineRef=" + sys.argv[2]
 
