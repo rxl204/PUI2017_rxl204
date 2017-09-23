@@ -40,5 +40,5 @@ for i in (range(0,Bus_Count)):
 	else: 
 		Stop_Status = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['OnwardCalls']['OnwardCall'][0]['Extensions']['Distances']['PresentableDistance'] 
 
-fout.write("%s,%s,%s,%s\n" %(Bus_Lat, Bus_Long, Stop_Name, Stop_Status))
+	fout.write("%s,%s,%s,%s\n" %(Bus_Lat, Bus_Long, Stop_Name, Stop_Status))
 
