@@ -12,7 +12,7 @@ except ImportError:
 #Read MTA API
 
 if not len(sys.argv) == 4:
-	print ("Invalid number of arguments. Run as: python show_bus_locations_rxl204.py <MTA_KEY> <BUS_LINE> <BUS_LINE>")
+	print ("Invalid number of arguments. Run as: python show_bus_locations_rxl204.py <MTA_KEY> <BUS_LINE> <BUS_LINE.csv>")
 	sys.exit()
 
 url = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=" + sys.argv[1] + "&VehicleMonitoringDetailLevel=calls&LineRef=" + sys.argv[2]
@@ -22,7 +22,7 @@ data = response.read().decode("utf-8")
 data = json.loads(data)
 
 #Opens a file for writing
-fout = open(sys.argv[2],"w")
+fout = open(sys.argv[3],"w")
 fout.write("Latitude,Longitude,Stop Name,Stop Status\n")
 
 Bus_Count = len(data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'])
