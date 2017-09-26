@@ -20,11 +20,10 @@ response = urllib.urlopen(url)
 data = response.read().decode("utf-8")
 data = json.loads(data)
 
-#Understanding Data
-Bus_Line = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][0]['MonitoredVehicleJourney']['PublishedLineName']
+#Understanding Data 
 Bus_Count = len(data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'])
 
-print('Bus Line:', Bus_Line)
+print('Bus Line:', sys.argv[2])
 print ('Number of Active Buses:', Bus_Count)
 
 for i in (range(0,Bus_Count)):
