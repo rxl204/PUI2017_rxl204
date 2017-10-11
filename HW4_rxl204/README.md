@@ -3,6 +3,7 @@ Assignment 1:
 
 Assignment 2:
 - worked collaboratively with gaurav and yuchen
+
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------| 
 |ANOVA|1, obesity related phenotypes| Continous |1,amino acids| Categorical |0|Do differences exist between 2 or more groups on one dependent variable|No difference exist between any group|0.05|[Involvement of the Neutral Amino Acid Transporter SLC6A15 and Leucine in Obesity-Related Phenotypes](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0068245)|
