@@ -23,6 +23,7 @@
 #### My final suggestions for Ms. Lim is to revise the original idea she wanted to test. From the bar chart in the assignment we are able to see a clear pattern that on each day the number of subscribers is remarkably higher than that of customers, hence the motivation for doing a Hopothesis test to show that there are more subscribers than customers everyday is not that strong. Rather, an alternative idea could be: "customers has stronger preference to use Citibike on weekends more often than Subscribers". In this case we can compare the ratios of weekend over weekday bike usage between to user types and hypothesis testing would be more necesssary. 
 
 
+# FBB good, very thorough
 ```python
 
 ```
