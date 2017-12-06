@@ -19,3 +19,11 @@
 ## HONESTY:
 - The first plot uses log normalized data on both axis, this helps to visualize and understand the data better 
 - The second plot shows GHG metric tons in the title, but I think it is reflecting the log normalized GHG metric tons. 
+
+# First off these are 2 disconnected plots, i.e. two visualizations, while the assignment was to make 1 plot. The plots are not connected so they do not constitute a single visualization. 
+
+# clarity: correct-color bars need units too!
+
+valuable comments. 
+
+10/10
